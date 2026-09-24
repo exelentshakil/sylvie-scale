@@ -1,4 +1,4 @@
-hi Ramy, i built a working Fractional CTO Dashboard for Sylvie so you can test live: https://sylvie-scale-exelentshakils-projects.vercel.app
+hi Ramy, i built a working Fractional CTO Dashboard for Sylvie so you can test live: https://sylvie-scale.vercel.app
 code: https://github.com/exelentshakil/sylvie-scale | portfolio: https://shakilhq.com
 
 it lets you evaluate compliance controls, test real OpenAI and Gemini failover routing, and trace database liabilities in real time.
